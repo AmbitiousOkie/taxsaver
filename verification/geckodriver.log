@@ -1,0 +1,194 @@
+1792562732208	geckodriver	INFO	Listening on 127.0.0.1:4448
+1792562732208	webdriver::server	TRACE	Build standard route for /status
+1792562732208	webdriver::server	TRACE	Build standard route for /session
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/url
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/url
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/back
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/forward
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/refresh
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/title
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/source
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/handles
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/new
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/size
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/size
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/position
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/position
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/rect
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/rect
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/minimize
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/maximize
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window/fullscreen
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/window
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/frame
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/frame/parent
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/element
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/elements
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/elements
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/shadow/{shadowId}/element
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/shadow/{shadowId}/elements
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/active
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/shadow
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/displayed
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/selected
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/attribute/{name}
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/property/{name}
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/css/{propertyName}
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/text
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/computedlabel
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/computedrole
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/name
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/rect
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/enabled
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/execute/sync
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/execute/async
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/cookie
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/cookie/{name}
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/cookie
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/cookie
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/cookie/{name}
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/timeouts
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/timeouts
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/click
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/clear
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/value
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/alert/dismiss
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/alert/accept
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/alert/text
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/alert/text
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/screenshot
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/element/{elementId}/screenshot
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/actions
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/actions
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/permissions
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/print
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/privacy
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/privacy
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/webauthn/authenticator/{authenticatorId}/credential
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/webauthn/authenticator
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/webauthn/authenticator/{authenticatorId}/credentials
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/webauthn/authenticator/{authenticatorId}/credentials
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/webauthn/authenticator/{authenticatorId}/credentials/{credentialId}
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/webauthn/authenticator/{authenticatorId}
+1792562732208	webdriver::server	TRACE	Build standard route for /session/{sessionId}/webauthn/authenticator/{authenticatorId}/uv
+1792562732208	webdriver::server	TRACE	Build vendor route for /session/{sessionId}/moz/context
+1792562732208	webdriver::server	TRACE	Build vendor route for /session/{sessionId}/moz/context
+1792562732208	webdriver::server	TRACE	Build vendor route for /session/{sessionId}/moz/addon/install
+1792562732208	webdriver::server	TRACE	Build vendor route for /session/{sessionId}/moz/addon/uninstall
+1792562732208	webdriver::server	TRACE	Build vendor route for /session/{sessionId}/moz/screenshot/full
+1792562754124	webdriver::server	DEBUG	-> POST /session {"capabilities": {"alwaysMatch": {"browserName": "firefox", "moz:firefoxOptions": {"binary": "/Applications/ ... er.helperApps.neverAsk.saveToDisk": "application/json,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"}}}}}
+1792562754124	geckodriver::capabilities	DEBUG	Trying to read firefox version from ini files
+1792562754125	geckodriver::capabilities	DEBUG	Found version 158.0
+1792562754126	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... headless" "-foreground" "-no-remote" "-profile" "/Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC"
+1792562754126	geckodriver::marionette	DEBUG	Waiting 60s to connect to browser on 127.0.0.1
+1792562754126	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562754126	geckodriver::marionette	TRACE	Retrying in 100ms
+*** You are running in headless mode.
+1792562754231	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562754231	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562754336	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562754336	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562754440	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562754440	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562754541	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562754541	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562754646	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562754646	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562754749	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562754749	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562754852	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562754852	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562754957	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562754957	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562755057	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562755058	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562755162	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562755162	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562755266	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562755266	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562755368	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562755368	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562755473	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562755473	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562755578	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562755578	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562755682	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562755682	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562755786	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562755786	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562755890	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562755890	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562755994	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562755995	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562756099	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562756099	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562756203	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562756203	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562756306	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562756307	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562756410	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562756410	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562756515	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562756515	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562756619	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562756619	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562756723	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562756723	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562756824	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562756824	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562756928	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562756928	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562757032	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562757032	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562757136	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562757136	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562757241	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562757242	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562757347	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562757347	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562757449	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562757449	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562757550	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562757550	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562757653	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562757653	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562757758	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562757758	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562757860	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562757860	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562757962	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562757963	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562758067	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562758067	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562758170	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562758170	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562758275	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562758275	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562758379	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562758379	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562758484	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562758484	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562758586	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562758586	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562758688	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562758688	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562758791	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562758791	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562758897	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562758897	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562759000	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562759000	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562759105	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562759105	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562759211	geckodriver::browser	TRACE	Failed to open /Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/MarionetteActivePort
+1792562759211	geckodriver::marionette	TRACE	Retrying in 100ms
+1792562759311	geckodriver::browser	DEBUG	Browser process stopped: exit status: 0
+1792562759311	geckodriver::browser	WARN	Couldn't read files from minidumps folder '/Users/kris/Projects/income-saver/openai/verification/rust_mozprofileCBvQeC/minidumps'
+1792562759311	webdriver::server	DEBUG	<- 500 Internal Server Error {"value":{"error":"unknown error","message":"Process (pid=39017) unexpectedly closed with status 0","stacktrace":""}}
+1792563183973	webdriver::server	INFO	Shutting down
+1792563183973	webdriver::server	DEBUG	Quit signal received, tearing down session
+1792563183974	webdriver::server	DEBUG	Teardown session
