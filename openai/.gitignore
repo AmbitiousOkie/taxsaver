@@ -1,0 +1,6 @@
+node_modules/
+.dev-cache/
+verification/firefox-session.json
+verification/geckodriver.log
+verification/rust_mozprofile*/
+tests/__pycache__/

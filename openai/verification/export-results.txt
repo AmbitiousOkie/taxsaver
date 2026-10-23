@@ -1,0 +1,2 @@
+Default example: PASS: 7 sheets, 657 cells, valid ZIP/XML, typed values, currency formatting, no formulas.
+Firefox TRS scenario: PASS: 7 sheets, 661 cells, valid ZIP/XML, typed values, currency formatting, no formulas.

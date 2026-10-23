@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Private, offline federal household tax planning for 2026.">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self' file:; script-src 'self' file:; style-src 'self' file: 'unsafe-inline'; img-src 'self' data: blob:; connect-src 'none'; object-src 'none'; base-uri 'none'">
+<title>Tax Saver · 2026 household planner</title><link rel="stylesheet" href="styles.css">
+<script defer src="rules.js"></script><script defer src="engine.js"></script><script defer src="xlsx.js"></script><script defer src="charts.js"></script><script defer src="app.js"></script>
+</head>
+<body>
+<!-- HERO: A living household treemap and allocation ring, paired with the dollars taxed in each bracket. -->
+<a class="skip" href="#workspace">Skip to planner</a>
+<header class="topbar"><a class="brand" href="#"><span class="brand-mark" aria-hidden="true">↗</span> tax saver<span class="year-tag">2026</span></a><div class="top-actions"><span class="privacy"><i></i> Offline & private</span><button id="save" class="quiet">Save plan</button><button id="load" class="quiet">Open plan</button><button id="export" class="primary">Export Excel <span aria-hidden="true">↗</span></button><input id="file" type="file" accept=".json,application/json" hidden></div></header>
+<main>
+<section class="intro"><div><p class="eyebrow">YOUR HOUSEHOLD. YOUR POSSIBILITIES.</p><h1>A little planning.<br><em>More possibilities.</em></h1><p class="lede">See where your income goes. Explore what you could save.</p></div><div class="intro-note"><span class="tiny-label">2026 FEDERAL TAX PLANNER</span><p>Change a number.<br>See the bigger picture.</p><span class="subtle">Annual estimates · Standard deduction</span></div></section>
+<div class="summary" id="summary" aria-live="polite" aria-atomic="true"></div>
+<div class="workspace" id="workspace">
+<section class="editor" aria-label="Household inputs"><div class="editor-heading"><div><p class="eyebrow">BUILD YOUR PICTURE</p><h2>Your household</h2></div><span class="annual-pill">Inputs are annual</span></div>
+<nav class="tabs" aria-label="Planner sections"><button data-tab="household" aria-current="page">01 <span>Household</span></button><button data-tab="income">02 <span>Income</span></button><button data-tab="benefits">03 <span>Benefits</span></button><button data-tab="planning">04 <span>Plan</span></button></nav>
+<div id="form-panel"></div></section>
+<aside class="results" aria-label="Live tax results"><div class="results-heading"><div><p class="eyebrow">THE BIG PICTURE</p><h2>Every dollar, accounted for.</h2></div><div class="segmented" aria-label="Display period"><button id="annual" aria-pressed="true">Year</button><button id="monthly" aria-pressed="false">Month</button></div></div><div id="results"></div></aside>
+</div>
+<section class="notes-panel"><details><summary>How this estimate works <span>Sources, assumptions & limitations</span></summary><div id="method"></div></details></section>
+<footer><span>Tax Saver <b>2026</b> · Your information stays on this device.</span><div><label class="remember"><input id="remember" type="checkbox"> Remember on this browser</label><button id="clear" class="text-button">Clear all data</button></div></footer>
+</main><div id="toast" role="status" aria-live="polite"></div><noscript>This offline planner needs JavaScript enabled in your browser.</noscript>
+</body></html>

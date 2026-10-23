@@ -1,0 +1,13 @@
+{
+  "name": "tax-saver-offline",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Offline 2026 federal household tax planner; no runtime dependencies",
+  "scripts": {
+    "test": "node --test tests/engine.test.cjs tests/charts.test.cjs tests/dom.test.mjs",
+    "test:engine": "node --test tests/engine.test.cjs"
+  },
+  "devDependencies": {
+    "happy-dom": "21.0.4"
+  }
+}

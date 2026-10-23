@@ -1,0 +1,33 @@
+{
+  "browser": "158.0",
+  "driver": "0.37.1",
+  "desktopWidth": 1440,
+  "mobileViewport": {
+    "height": 844,
+    "width": 390
+  },
+  "checks": [
+    "file:// startup",
+    "treemap default and selection",
+    "doughnut toggle",
+    "annual/monthly values",
+    "gross input with real keystrokes",
+    "contribution slider keyboard interaction",
+    "suggest/apply/undo",
+    "employer reimbursement and education inputs",
+    "shared education exclusion and cash treatment",
+    "employer-benefit desktop/mobile screenshots",
+    "JSON download and file-input import",
+    "XLSX download",
+    "MFS two returns",
+    "desktop/mobile no horizontal overflow",
+    "TRS 7% salary estimate and payroll tax treatment",
+    "TRS alongside 403(b) and governmental 457(b)",
+    "TRS employer funding and JSON restoration",
+    "TRS desktop/mobile screenshots"
+  ],
+  "downloads": [
+    "tax-saver-2026(4).json",
+    "tax-saver-2026(4).xlsx"
+  ]
+}
